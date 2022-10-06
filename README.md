@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm beginner :hatching_chick: frontend-developer.
+I'm :hatching_chick: frontend-developer.
 
 I like html, css and js! :yum:
 
