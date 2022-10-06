@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm frontend-developer.
+I'm an frontend-developer.
 
 I like html, css and js! :yum:
 
